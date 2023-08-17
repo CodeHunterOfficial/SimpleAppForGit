@@ -11,3 +11,9 @@ static int Zarb(int a, int b)
     return a * b;
 }
 Console.WriteLine(Zarb(2, 5));
+
+static int Taqsim(int a, int b)
+{
+    return a - b;
+}
+Console.WriteLine(Taqsim(2, 5));
