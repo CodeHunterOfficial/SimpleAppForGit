@@ -17,10 +17,3 @@ static int Taqsim(int a, int b)
     return a - b;
 }
 Console.WriteLine(Taqsim(2, 5));
-
-
-static int Tarh(int a, int b)
-{
-    return a - b;
-}
-Console.WriteLine(Tarh(2, 5));
